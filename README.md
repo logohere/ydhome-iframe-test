@@ -4,7 +4,7 @@ Public, static GitHub Pages harness for testing the Magic Cabinet YD Home embed 
 
 Default target:
 
-`https://journalists-fresh-posters-athletics.trycloudflare.com/design/ydhome?embed=1&qa=github`
+`https://suppliers-legs-predict-mail.trycloudflare.com/design/ydhome?embed=1&qa=github`
 
 The iframe uses the same documented sandbox capabilities used by the Wix embed test:
 
